@@ -3,14 +3,12 @@
 I got bored constantly going:
 
 git add
-
 git commit -am "My awesome message!"
-
 git push origin some-branch
 
 So this script does it in one go! :D
 
-gacp "My even more awesome message!"
+gitacp "My even more awesome message!"
 
 == Note on Patches/Pull Requests
  

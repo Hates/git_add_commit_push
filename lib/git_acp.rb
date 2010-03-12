@@ -5,7 +5,7 @@ class GitACP
   end
 
   def add_commit_push
-    puts "Pushing to #{@args[0]}"
+    puts "Pushing to #{current_branch}"
     add
     commit
     push

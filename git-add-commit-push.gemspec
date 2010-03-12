@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.authors = ["Richard Hart"]
   s.date = %q{2010-03-12}
   s.default_executable = %q{gitacp}
-  s.description = %q{TODO: longer description of your gem}
+  s.description = %q{git add commit push in one go.}
   s.email = %q{richard@ur-ban.com}
   s.executables = ["gitacp"]
   s.extra_rdoc_files = [

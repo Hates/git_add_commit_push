@@ -6,7 +6,7 @@ begin
   Jeweler::Tasks.new do |gem|
     gem.name = "git-add-commit-push"
     gem.summary = %Q{git-add-commit-push gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.description = %Q{git add commit push in one go.}
     gem.email = "richard@ur-ban.com"
     gem.homepage = "http://github.com/Hates/git-add-commit-push"
     gem.authors = ["Richard Hart"]
